@@ -1,1 +1,1 @@
-# Academic-Projects
+Comprehensive Financial Analysis of Nifty 50 Index (2000-2021): Analyzed data of 50 Nifty-listed companies using Python (Pandas, NumPy); identified SHREECEM as a top-performing stock, with ₹500 invested in 2000, growing to ₹205,224 by 2021.
